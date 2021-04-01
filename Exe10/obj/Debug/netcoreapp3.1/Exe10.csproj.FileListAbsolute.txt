@@ -1,0 +1,13 @@
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.exe
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.deps.json
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.runtimeconfig.json
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.runtimeconfig.dev.json
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.dll
+C:\C#NET\Aula1\Exe10\bin\Debug\netcoreapp3.1\Exe10.pdb
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.csprojAssemblyReference.cache
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.AssemblyInfoInputs.cache
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.AssemblyInfo.cs
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.csproj.CoreCompileInputs.cache
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.dll
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.pdb
+C:\C#NET\Aula1\Exe10\obj\Debug\netcoreapp3.1\Exe10.genruntimeconfig.cache
